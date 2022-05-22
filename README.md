@@ -1,2 +1,2 @@
-# String-theory
-I got to learn string theory for several months and have some interests in the brane engineering. Most likely I will stay as an amateur in the future. 
+# Notes on String-theory
+I learnt string theory by myself for several months and have some interests in the brane engineering. Writing notes for enhancing my memory.
